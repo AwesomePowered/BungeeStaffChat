@@ -1,0 +1,5 @@
+name: StaffChat
+version: 1.0-${BUILD_NUMBER}
+author: LaxWasHere
+depends: [BungeeYAML]
+main: net.lazlecraft.staffchat.StaffChat
